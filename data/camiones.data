@@ -1,0 +1,1 @@
+{"@context":"http://schema.org","@type:":"SearchAction","query":"camion,tesla,volvo, scania, gmc","startTime":"Mon May 07 2018 03:01:33 GMT+0200 (Hora de verano romance)","agent":{"@type":"Person","name":"yo"},"object":{"@type":"Stream","identifier":"camiones","url":"/stream/camiones"},"_type":"metadata","name":"camiones","_n":0,"_dt":"2018-05-07T01:01:33.286Z"}
