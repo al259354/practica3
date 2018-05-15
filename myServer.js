@@ -37,10 +37,10 @@ app.get('/stream/:name/geo',ctrl.geolocalizacion);
 
 
 ctrl.warmup.once("warmup", _ => {
-   console.log("Web server running on port 8080");
-   app.listen(8080);
+   console.log("Web server running on port 3030");
+   app.listen(3030);
 });
 
-app.listen(8080,	function	()	{
+app.listen(3030,	function	()	{
 		console.log("the	server	is	running!");
 });
